@@ -4,8 +4,6 @@
 
  Contributors: Harlan T Wood, Jack Senechal, Travis Wellman, Adam Apollo 
 
-![][1]
-
 The mission of Software Zero is to create a platform for swarm intelligence 
 to collaborate on a project, while retaining the edits and contributions of 
 every author throughout the history of the collaboration. Contributors do not 
@@ -135,20 +133,14 @@ authors and content.
 
 ### 2013
 
-* 
-
-Visually discover trending and relevant remixes of content, based on popularity 
+* Visually discover trending and relevant remixes of content, based on popularity 
 and trust metrics
 
-* 
-
-“Node Collectives” allow the creation of distributed ownership of information 
+* “Node Collectives” allow the creation of distributed ownership of information 
 on a given topic, serving up the items of the greatest interest to the individual 
 visitor
 
-* 
-
-Add your feature request here…
+* Add your feature request here…
 
 ### Past Milestones
 
